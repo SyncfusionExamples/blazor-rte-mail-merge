@@ -38,6 +38,16 @@ Run the application
 dotnet run
 ```
 
-## Troubleshooting & support
+## Troubleshooting
 
-If you encounter issues, confirm that packages are restored, the project builds, and the license key is registered correctly. For more details about Syncfusion components consult the Syncfusion Blazor documentation.
+- Ensure NuGet packages are restored and the project builds before running.
+- If export fails, check browser console and server logs for errors and confirm any required licenses are configured.
+
+## Support
+
+This sample is provided for demonstration purposes. For issues, open an issue in the repository.
+
+## See also
+
+- [Online examples](https://blazor.syncfusion.com/demos/rich-text-editor/overview?theme=fluent2)
+- [Documentation](https://blazor.syncfusion.com/documentation/rich-text-editor/getting-started-webapp)
